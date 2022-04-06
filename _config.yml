@@ -3,7 +3,7 @@ title: StinaHuglenArt
 author: Stina Huglen
 email: stina.huglen@outlook.com
 description: My portfolio, store and contact information
-baseurl: ''
+baseurl: "/stinaart_forestry"
 url: ''
 defaults:
 - scope:
