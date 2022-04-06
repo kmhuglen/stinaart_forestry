@@ -38,7 +38,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "<strong>Paintings &amp; Drawaings </strong>"
+  headline: "<strong>Paintings &amp; Drawings </strong>"
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
